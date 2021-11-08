@@ -1,25 +1,28 @@
 # Stegano
 Stegano is a python script written to hide text behind images and decrypt text hidden behind an image
-# Installation
 
-> -apt update
+# Screenshot
+![Screenshot of Stegano](https://k.top4top.io/p_21387dhfh0.png)
+## Installation
 
-apt upgrade
+>apt update
 
-apt install git
+>apt upgrade
 
-apt install Python
+>apt install git
 
-termux-setup-storage
+>apt install Python
 
-git clone https://github.com/Anontemitayo/Stegano
+>termux-setup-storage
 
-cd Stegano
+>git clone https://github.com/Anontemitayo/Stegano
 
-ls
+>cd Stegano
 
-python Stegano.py
+>ls
 
-# Message 
+>python Stegano.py
 
-Do not forget to follow me for more tools 
+## Message 
+
+>Do not forget to follow me for more tools 
